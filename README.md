@@ -1,4 +1,4 @@
-<H3>ENTER YOUR NAME : RUDESH KANNA R<img width="592" height="419" alt="Screenshot 2026-03-18 135313" src="https://github.com/user-attachments/assets/ce865d5e-dad6-4da3-a21b-224578d13945" />
+<H3>ENTER YOUR NAME : RUDESH KANNA R
 </H3>
 <H3>ENTER YOUR REGISTER NO. 212223233002</H3>
 <H3>EX. NO.5</H3>
